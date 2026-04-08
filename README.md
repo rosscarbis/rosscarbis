@@ -7,6 +7,8 @@ My expertise lies in bridging the gap between theoretical mathematical models—
 
 ---
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ## 🛠 Technical Stack
 - **Languages:** Python, R, SQL (In Progress), LaTeX.
 - **Libraries:** NumPy, Pandas, Matplotlib, SciPy.
